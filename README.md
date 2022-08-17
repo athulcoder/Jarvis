@@ -1,4 +1,4 @@
-<h1 text-align="center">JARVIS</h1>
+<h1 align="center">JARVIS</h1>
 jarvis is a python based program that works as a robot. It recognizes the commands and executes the job.
 
 ## Jarvis UI (i)
